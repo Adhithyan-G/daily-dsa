@@ -1,2 +1,3 @@
 # daily-dsa
-Just a record my DSA workout, So that I don't get rusty
+A personal log of my daily **Data Structures & Algorithms (DSA)** practice.  
+This repo helps me stay consistent, track my progress, and avoid getting rusty.
